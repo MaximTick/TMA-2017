@@ -1,0 +1,33 @@
+function sum (int a, int b, int c){
+declare int res;
+res = a + b + c;
+return res;
+}
+
+go
+[
+math;
+declare int a;
+declare int b;
+declare int t;
+t = 3;
+a = 4;
+b = 25;
+declare str out;
+declare int k;
+out = 'tma2017';
+print(out);
+k = koren(b);
+declare  int sm;
+sm= sum(1,b,3);
+print(sm);
+declare int s;
+declare int f;
+s = xpow(a,t);
+f = fact(t);
+print(k);
+print(s);
+print(f);
+end;
+]
+
